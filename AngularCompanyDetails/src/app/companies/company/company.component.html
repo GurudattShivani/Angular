@@ -1,0 +1,38 @@
+<form class="company-form" #companyForm="ngForm" (ngSubmit)="onSubmit(companyForm)">
+    <!--Add a hidden field CompanyId as we are using the form to insert/update company details-->
+<input type="hidden" name="CompanyId" #CompanyId="ngModel" [(ngModel)]="companyService.selectedCompany.CompanyId">
+ <div class="form-row">
+   <div class="form-group col-md-6">
+      <input type="text" class="form-control" name="CompanyName" #CompanyName="ngModel" [(ngModel)]="companyService.selectedCompany.CompanyName" placeholder="Company First Name" required>
+      <div class="validation-error" *ngIf="CompanyName.invalid && CompanyName.touched">Company Name is Required</div>
+   </div>
+   <div class="form-group col-md-6">
+      <input type="text" class="form-control" name="LastName" #LastName="ngModel" [(ngModel)]="companyService.selectedCompany.LastName" placeholder="Company Last Name">
+  </div>
+ </div>
+ 
+ <div class="form-row">
+  <div class="form-group col-md-6">
+      <input type="text" class="form-control" name="Email" #Email="ngModel" [(ngModel)]="companyService.selectedCompany.Email" placeholder="Company Email" required pattern="^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$">
+      <div class="validation-error" *ngIf="Email.invalid && Email.touched">Email Invalid / Required </div>
+      
+  </div>
+  <div class="form-group col-md-6">
+      <input type="text" class="form-control" name="PhoneNumber" #PhoneNumber="ngModel" [(ngModel)]="companyService.selectedCompany.PhoneNumber" placeholder="Phone (XXX-XXX-XXXX)" required pattern="^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$">
+      <div class="validation-error" *ngIf="PhoneNumber.invalid && PhoneNumber.touched">PhoneNo. Invalid / Required</div>
+  </div>
+</div>
+
+<div class="form-row">
+    <div class="form-group col-md-8">
+        <button [disabled] = "!companyForm.valid" type="submit" class="btn btn-lg btn-block btn-info">
+            <i class="fas fa-save"></i> Save Details         
+        </button>           
+    </div>
+    <div class="form-group col-md-4">
+        <button type="button" class="btn btn-lg btn-block btn-secondary" (click)="resetForm(companyForm)">
+          <i class="fas fa-redo"></i> Reset
+        </button>      
+    </div>
+  </div>
+</form>

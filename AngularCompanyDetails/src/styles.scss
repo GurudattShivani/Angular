@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+form.company-form{
+    background-color: #dbdbdb;
+    border-radius: 4px;
+    padding: 10px;
+}
+div.validation-error{
+    color: darkred;
+    text-align: justify;
+    padding-left: 5px;
+}
+
+button:hover,a.btn:hover{
+    cursor: pointer;
+}
