@@ -1,0 +1,162 @@
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\obj\Debug\CompanyDetails.Test.csprojResolveAssemblyReference.cache
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\roslyn\csc.exe
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\roslyn\vbc.exe
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\CompanyDetails.Test.dll.config
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\CompanyDetails.Test.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\CompanyDetails.Test.pdb
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Castle.Core.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\CompanyDetails.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\EntityFramework.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Moq.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.ValueTuple.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Microsoft.Owin.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Web.Optimization.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Web.Mvc.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Owin.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Web.Http.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Web.Razor.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Web.WebPages.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Web.Cors.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\CompanyDetails.pdb
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Castle.Core.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\EntityFramework.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Moq.pdb
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Moq.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.ValueTuple.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Microsoft.Owin.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Web.Optimization.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Web.Mvc.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Web.Http.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Web.Razor.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Web.WebPages.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\obj\Debug\CompanyDetails.Test.dll
+C:\Users\Gurudatt\Downloads\Angular-master\CompanyDetails.Test\obj\Debug\CompanyDetails.Test.pdb
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\roslyn\csc.exe
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\roslyn\vbc.exe
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\roslyn\VBCSCompiler.exe
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\CompanyDetails.Test.dll.config
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\CompanyDetails.Test.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\CompanyDetails.Test.pdb
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Castle.Core.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\CompanyDetails.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\EntityFramework.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Moq.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.ValueTuple.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Microsoft.Owin.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Web.Optimization.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Web.Mvc.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Microsoft.Owin.Security.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Owin.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Web.Http.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Web.Http.Cors.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Web.Http.Owin.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Web.Http.WebHost.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Web.Razor.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Web.WebPages.Razor.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Web.WebPages.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Newtonsoft.Json.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Net.Http.Formatting.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Web.Cors.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\CompanyDetails.pdb
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Castle.Core.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\EntityFramework.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Moq.pdb
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Moq.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.ValueTuple.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Microsoft.Owin.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Web.Optimization.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Web.Mvc.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Microsoft.Owin.Security.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Web.Http.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Web.Http.Cors.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Web.Http.Owin.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Web.Http.WebHost.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Web.Razor.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Web.WebPages.Razor.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Web.WebPages.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\Newtonsoft.Json.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Net.Http.Formatting.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\obj\Debug\CompanyDetails.Test.csprojResolveAssemblyReference.cache
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\obj\Debug\CompanyDetails.Test.dll
+E:\D Drive\Projects\CompanyDetails\CompanyDetails.Test\obj\Debug\CompanyDetails.Test.pdb

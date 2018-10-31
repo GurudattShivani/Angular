@@ -1,0 +1,17 @@
+﻿● src
++---● app
+|   +--● companies
+|   |  |--companies.component.ts|.html
+|   |  +--● company
+|   |  |  |--company.component.ts|.html
+|   |  |
+|   |  +--● company-list
+|   |  |  |--company-list.component.ts|.html
+|   |  |
+|   |  +--● shared
+|   |     |--company.service.ts
+|   |     |--company.model.ts
+|   |
+|   |--app.module.ts
+|
+|--index.html (cdn path for bootstrap and font-awesome icon)
