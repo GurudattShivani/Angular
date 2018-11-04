@@ -2,6 +2,7 @@
 using System.Data.Entity;
 using System.Linq;
 using CompanyDetails.Interfaces;
+using System.Collections.Generic;
 
 namespace CompanyDetails.Models
 {    
@@ -27,7 +28,12 @@ namespace CompanyDetails.Models
         }
         public Company FindCompanyById(int id)
         {
-            return companyDbEntities.Companies.Find(id);
+            return companyDbEntities.Companies.SingleOrDefault(x => x.CompanyId == id);
+        }
+
+        public List<Company> GetCompanyById(int id)
+        {
+            return companyDbEntities.Companies.Where(x => x.CompanyId == id).ToList();
         }
         public bool DeleteCompany(Company company)
         {
@@ -44,7 +50,7 @@ namespace CompanyDetails.Models
             }
             return successFlag;
         }
-        public bool IsComapnyExistsById(int companyId)
+        public bool IsCompanyExistsById(int companyId)
         {
             return companyDbEntities.Companies.Count(e => e.CompanyId == companyId) > 0;
         }
