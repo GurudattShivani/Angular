@@ -24,3 +24,13 @@ This is an Angular 6 App using Web API 2 to demonstrate CRUD Operations(Insert, 
 	"PhoneNumber" : "5678942545"	
 }
 4. Ensure that the "Content-Type" in "Headers" is "application/json" and click "Send"
+
+## Unit Tests ##
+Below are the unit tests written and executed successfully
+
+1. TestGetCompanies()
+2. TestIfCompanyExistById()
+3. TestIfCompanyExistOnAdd()
+4. TestIfDetailsUpdated()
+5. TestOnDelete()
+
