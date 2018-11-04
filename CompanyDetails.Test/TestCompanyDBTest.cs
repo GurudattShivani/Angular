@@ -11,6 +11,9 @@ namespace CompanyDetails.Test
     [TestClass]
     public class TestCompanyDBTest    {        
 
+        /// <summary>
+        /// Test to get all the companies from the list
+        /// </summary>
         [TestMethod]
         public void TestGetCompanies()
         {
@@ -27,6 +30,9 @@ namespace CompanyDetails.Test
             Assert.AreEqual(3, comp[2].CompanyId);
         }
 
+        /// <summary>
+        /// Test to get a company by Id
+        /// </summary>
         [TestMethod]
         public void TestIfCompanyExistById()
         {
@@ -43,6 +49,9 @@ namespace CompanyDetails.Test
             Assert.AreEqual(1, comp[0].CompanyId);
         }
 
+        /// <summary>
+        /// Test to add a company
+        /// </summary>
         [TestMethod]
         public void TestIfCompanyExistOnAdd()
         {
@@ -56,6 +65,9 @@ namespace CompanyDetails.Test
             mockSet.Verify(m => m.Add(It.IsAny<Company>()), Times.Once());
         }
 
+        /// <summary>
+        /// Test to update a company
+        /// </summary>
         [TestMethod]
         public void TestIfDetailsUpdated()
         {
@@ -73,6 +85,9 @@ namespace CompanyDetails.Test
             Assert.AreEqual("Updated Company", comp[0].CompanyName); //Updated data           
         }
 
+        /// <summary>
+        /// Test to delete a company
+        /// </summary>
         [TestMethod]
         public void TestOnDelete()
         {
@@ -85,6 +100,10 @@ namespace CompanyDetails.Test
             mockSet.Verify(m => m.Remove(It.IsAny<Company>()), Times.Once());
         }
 
+        /// <summary>
+        /// Generates and returns a mockset
+        /// </summary>
+        /// <returns></returns>
         public Mock<DbSet<Company>> GenerateMock()
         {
             var mockSet = new Mock<DbSet<Company>>();
